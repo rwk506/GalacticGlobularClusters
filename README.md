@@ -6,6 +6,7 @@ Galactic Globular Clusters
 <br />
 
 <h4>Table of Contents</h4>
+
 [Summary](#Summary)<br />
 [References](#Refs)<br />
 [Other Information](#Other)<br />
