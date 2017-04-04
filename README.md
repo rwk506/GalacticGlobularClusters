@@ -1,7 +1,7 @@
 Galactic Globular Clusters
 ================================
 
-###A [Shiny application](https://rwk506.shinyapps.io/ShinyClusters/) to interactively explore the dataset(s) of Galactic Globular Clusters###
+<h3>A <a href="https://rwk506.shinyapps.io/ShinyClusters/" title="Shiny application">Shiny application</a> to interactively explore the dataset(s) of Galactic Globular Clusters</h3>
 
 <br />
 
